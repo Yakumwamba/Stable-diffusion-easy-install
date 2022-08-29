@@ -1,5 +1,5 @@
 # Stable-Diffusion-easy-install
-### A simple way to install and use [Stable Diffusion](https://replicate.com/stability-ai/stable-diffusion) on your own computer
+### A simple way to install and use [Stable Diffusion](https://replicate.com/stability-ai/stable-diffusion) on your own computer through docker
 
 ---
 
